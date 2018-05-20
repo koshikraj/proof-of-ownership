@@ -1,0 +1,2 @@
+neo-boa==0.4.2
+neo-python==0.6.9
